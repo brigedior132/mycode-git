@@ -1,4 +1,4 @@
 # mycode-git
 This is my first Git Repository.
 <br>
-Author-brigedior 
+Author-brigedior (singh)
